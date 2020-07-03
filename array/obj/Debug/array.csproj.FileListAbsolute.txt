@@ -1,0 +1,9 @@
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\array\array\bin\Debug\array.exe.config
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\array\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\array\array\obj\Debug\array.Form1.resources
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\array\array\obj\Debug\array.Properties.Resources.resources
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\array\array\obj\Debug\array.csproj.GenerateResource.Cache
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\array\array\bin\Debug\array.exe
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\array\array\bin\Debug\array.pdb
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\array\array\obj\Debug\array.exe
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\array\array\obj\Debug\array.pdb
